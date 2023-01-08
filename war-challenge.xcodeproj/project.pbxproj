@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		55FE2C33296A18FB0049D17F /* war_challengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FE2C32296A18FB0049D17F /* war_challengeApp.swift */; };
-		55FE2C35296A18FB0049D17F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FE2C34296A18FB0049D17F /* ContentView.swift */; };
 		55FE2C37296A18FC0049D17F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55FE2C36296A18FC0049D17F /* Assets.xcassets */; };
 		55FE2C3A296A18FC0049D17F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55FE2C39296A18FC0049D17F /* Preview Assets.xcassets */; };
+		55FE2C43296A72CA0049D17F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FE2C42296A72CA0049D17F /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		55FE2C2F296A18FB0049D17F /* war-challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "war-challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55FE2C32296A18FB0049D17F /* war_challengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = war_challengeApp.swift; sourceTree = "<group>"; };
-		55FE2C34296A18FB0049D17F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		55FE2C36296A18FC0049D17F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55FE2C39296A18FC0049D17F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		55FE2C42296A72CA0049D17F /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../../../Downloads/14 Day Beginner Challenge/Lesson 05/war-challenge/war-challenge/ContentView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				55FE2C32296A18FB0049D17F /* war_challengeApp.swift */,
-				55FE2C34296A18FB0049D17F /* ContentView.swift */,
+				55FE2C42296A72CA0049D17F /* ContentView.swift */,
 				55FE2C36296A18FC0049D17F /* Assets.xcassets */,
 				55FE2C38296A18FC0049D17F /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55FE2C35296A18FB0049D17F /* ContentView.swift in Sources */,
+				55FE2C43296A72CA0049D17F /* ContentView.swift in Sources */,
 				55FE2C33296A18FB0049D17F /* war_challengeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
